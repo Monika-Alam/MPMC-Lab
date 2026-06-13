@@ -106,14 +106,6 @@ File: `prb10.asm`
 
 Prints a decreasing star (`*`) pattern using nested loops.
 
-Example:
-
-****
-***
-**
-*
-
-
 Concepts:
 - Nested Loops
 - Pattern Printing
