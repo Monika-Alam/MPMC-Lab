@@ -111,6 +111,8 @@ Example:
 ****
 ***
 **
+*
+
 
 Concepts:
 - Nested Loops
